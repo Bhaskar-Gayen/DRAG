@@ -1,1 +1,1 @@
-# Document Retrieval Augmented Generation
+# Document Retrieve and Generate
