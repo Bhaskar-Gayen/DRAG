@@ -1,1 +1,1 @@
-# document-analyzer
+# Document Retrieval Augmented Generation
