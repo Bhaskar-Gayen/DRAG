@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# Cache
+*.cache/
+*.pytest_cache/
+
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+wheelhouse/
+
+app/.env
+
+# Docker
+docker-compose.override.yml
+*.dockerfile
+.dockerignore
+
+# Database
+*.sqlite3
+*.db
+
+# Static and media files
+staticfiles/
+mediafiles/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency management tools
+poetry.lock
+Pipfile.lock
+
+document-service/app/.env
+user-service/app/.env
